@@ -1,5 +1,6 @@
 # Algorithmic Price Discrimintation - Possible Welfare Outcomes of 3rd order price discrimination with noisy measure of buyers valuation.
 Contributors: Erik Senn (erik.senn@gmx.de), Katharina Haglund, Jeremia Stalder
+
 Background Info: Code used for Presentation of Cummings et al. (2020) in Industrial Organizations Class, University of St.Gallen
 
 ## Related Literature
