@@ -9,10 +9,10 @@ Cummings, Rachel, et al. "Algorithmic Price Discrimination". 31st Annual ACM-SIA
 
 Bergemann, Dirk, et al. “The Limits of Price Discrimination.” The American Economic Review, vol. 105, no. 3, 2015
 
-## Contributors: 
+## Contributors
 Erik Senn (erik.senn[at]gmx.de), Katharina Haglund, Jeremia Stalder
 
-## Code Files:
+## Code Files
 [main.R](main.R) - set input parameters, generate segmentations, plot results
 
 [functions.R](functions.R) - functions to get welfare outcome for given segmentation
