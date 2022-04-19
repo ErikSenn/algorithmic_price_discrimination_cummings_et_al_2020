@@ -3,6 +3,7 @@
 This small project simulates the welfare implications of 3rd order price discrimination with uncertainty about the buyers' product valuations.
 The code implements an easy example of the theoretical results of Cummings et al. (2020) to provide an inuition for their results.
 The paper and the specific example analyzed here is described in Presentation.pdf, Section "Noisy Signal".
+[Presentation](haglund_senn_stalder__cummings_et_al.pdf).
 
 ## Related Literature
 Cummings, Rachel, et al. "Algorithmic Price Discrimination". 31st Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2020), Salt Lake City, UT, USA, 5-8 January 2020.
