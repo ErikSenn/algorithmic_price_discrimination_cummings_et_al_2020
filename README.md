@@ -2,8 +2,7 @@
 ## About
 This small project simulates the welfare implications of 3rd order price discrimination with uncertainty about the buyers' product valuations.
 The code implements an easy example of the theoretical results of Cummings et al. (2020) to provide an inuition for their results.
-The paper and the specific example analyzed here is described in Presentation.pdf, Section "Noisy Signal".
-[Presentation](haglund_senn_stalder__cummings_et_al.pdf).
+The paper and the specific example analyzed here is described in [Presentation](haglund_senn_stalder__cummings_et_al.pdf), Section "Noisy Signal".
 
 ## Related Literature
 Cummings, Rachel, et al. "Algorithmic Price Discrimination". 31st Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2020), Salt Lake City, UT, USA, 5-8 January 2020.
@@ -14,9 +13,8 @@ Bergemann, Dirk, et al. “The Limits of Price Discrimination.” The American E
 Erik Senn (erik.senn[at]gmx.de), Katharina Haglund, Jeremia Stalder
 
 ## Code Files:
-main.R - set input parameters, generate segmentations, plot results
-
-functions.R - functions to get welfare outcome for given segmentation
+[main.R](main.R) - set input parameters, generate segmentations, plot results
+[functions.R](functions.R) - functions to get welfare outcome for given segmentation
 
 ## Main File Description
 
