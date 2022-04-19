@@ -1,7 +1,7 @@
 # Algorithmic Price Discrimination - Possible Welfare Outcomes of 3rd order price discrimination with noisy measure of buyers valuation.
 ## About
 This small project simulates the welfare implications of 3rd order price discrimination with uncertainty about the buyers' product valuations.
-The code implements an easy example of the theoretical results of Cummings et al. (2020) to provide an inuition for their results.
+The code implements an easy example of Cummings et al. (2020) to provide an inuition for their theoretical results.
 The paper and the specific example analyzed here is described in [Presentation](haglund_senn_stalder__cummings_et_al.pdf), Section "Noisy Signal".
 
 ## Related Literature
