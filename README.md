@@ -14,6 +14,7 @@ Erik Senn (erik.senn[at]gmx.de), Katharina Haglund, Jeremia Stalder
 
 ## Code Files:
 [main.R](main.R) - set input parameters, generate segmentations, plot results
+
 [functions.R](functions.R) - functions to get welfare outcome for given segmentation
 
 ## Main File Description
