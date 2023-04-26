@@ -1,8 +1,8 @@
-# Algorithmic Price Discrimination - Possible Welfare Outcomes of 3rd order price discrimination with noisy measure of buyers valuation.
+# A visualization of "Algorithmic Price Discrimination - Possible Welfare Outcomes of 3rd order price discrimination with noisy measure of buyers valuation".
 ## About
 This small project simulates the welfare implications of 3rd order price discrimination with uncertainty about the buyers' product valuations.
 The code implements an easy example of Cummings et al. (2020) to provide an inuition for their theoretical results.
-The paper and the specific example analyzed here is described in [Presentation](haglund_senn_stalder__cummings_et_al.pdf), Section "Noisy Signal".
+The paper and the specific example analyzed here is described in this [Presentation](haglund_senn_stalder__cummings_et_al.pdf), Section "Noisy Signal".
 
 ## Related Literature
 Cummings, Rachel, et al. "Algorithmic Price Discrimination". 31st Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2020), Salt Lake City, UT, USA, 5-8 January 2020.
@@ -25,7 +25,7 @@ Output: Dataframe with optimal outcome for each tested segmentation, plots for w
   
 Current Setting: Example of Cummings et al. Simple random noise and 3 valuations / types.
   
-Limitations: Only supports length (value set) = length (type set). Special points (red) in plots are customized, might not suit for every noise level.
+Limitations: Only supports length (value set) = length (type set). Special points (red) in plots are customized, might not fit for every noise level.
   
 ## Future ToDOs
 Compute optimal segmentation via linear programm (Cummings et al., Theorem 2.1).
